@@ -10,7 +10,7 @@ processor = CLIPProcessor.from_pretrained("openai/clip-vit-base-patch32")
 image = Image.open("data/images/test.jpg").convert("RGB")
 
 # Text to compare
-text = "a man with a beard and a white shirt"
+text = "A cat sleeping on a sofa"
 
 # Prepare inputs
 inputs = processor(
