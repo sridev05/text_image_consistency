@@ -44,6 +44,7 @@ By leveraging state-of-the-art vision–language models, the system can detect m
 ---
 <img width="1365" height="573" alt="image" src="https://github.com/user-attachments/assets/d555472c-f79c-45d1-b3f0-0fff97b81318" />
 
+## How It Works 
 1. **Input:** User provides an image and a textual description.  
 2. **Caption Generation:** The system generates a caption describing the image.  
 3. **Embedding Extraction:** Convert both the generated caption and input text into semantic embeddings.  
