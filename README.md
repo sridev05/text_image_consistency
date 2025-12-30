@@ -3,6 +3,8 @@
 ## 📌 Project Overview
 
 With the rise of multimodal AI, combining images and text is becoming ubiquitous in applications like image captioning, text-to-image generation, multimedia search, and content moderation. However, current systems struggle to verify whether a given image truly aligns with its textual description.
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ff7f0ca0-f31d-4558-af2e-63ba05b07ee3" />
+
 
 This project develops an automated Text–Image Semantic Consistency Verification System that:
 
